@@ -1,7 +1,7 @@
 # Customer Data Analysis – SQL & Power BI Project
 
-##📘 Table of Contents
-
+#📘 **Table of Contents
+**
 Project Overview
 Short Description / Process
 Tech Stack
@@ -11,13 +11,13 @@ Key Insights
 Disclaimer
 
 
-###🎯 Project Overview
+#🎯 Project Overview
 
 The Customer Data Analysis project focuses on understanding customer purchasing behavior, demographics, and payment preferences through SQL data analysis and Power BI visualization.
 The project provides actionable insights that help businesses identify top-performing segments and optimize marketing and sales strategies.
 
 
-###🧠 2. Short Description / Process
+#🧠 2. Short Description / Process
 
 This project analyzes customer and transaction data to explore key metrics such as sales distribution by gender, age group, and payment method.
 The dataset was queried in MySQL to derive KPIs and trend insights, which were then visualized through an interactive Power BI dashboard with navigation between analysis pages.
