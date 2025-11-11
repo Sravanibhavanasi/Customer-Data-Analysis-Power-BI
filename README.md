@@ -1,29 +1,36 @@
 # Customer Data Analysis – SQL & Power BI Project
 
-#📘 **Table of Contents
-**
-Project Overview
-Short Description / Process
-Tech Stack
-Features and Highlights
-Dashboard Preview
-Key Insights
-Disclaimer
+**📘 Table of Contents**
+|----------------------------|
+
+<a href="#Project Overview">Project Overview</a>
+
+<a href="#Short Description / Process">Short Description / Process</a>
+
+<a href="#Tech Stack">Tech Stack</a>
+
+<a href="#Features and Highlights">Features and Highlights</a>
+
+<a href="#Dashboard Preview">Dashboard Preview</a>
+
+<a href="#Key Insights">Key Insights</a>
+
+<a href="#Disclaimer">Disclaimer</a>
 
 
-#🎯 Project Overview
+**🎯 1.Project Overview**
 
 The Customer Data Analysis project focuses on understanding customer purchasing behavior, demographics, and payment preferences through SQL data analysis and Power BI visualization.
 The project provides actionable insights that help businesses identify top-performing segments and optimize marketing and sales strategies.
 
 
-#🧠 2. Short Description / Process
+**🧠 2. Short Description / Process**
 
 This project analyzes customer and transaction data to explore key metrics such as sales distribution by gender, age group, and payment method.
 The dataset was queried in MySQL to derive KPIs and trend insights, which were then visualized through an interactive Power BI dashboard with navigation between analysis pages.
 
 
-###🧰 3. Tech Stack
+**🧰 3. Tech Stack**
 
 SQL (MySQL) – for data extraction, transformation, and aggregation
 
@@ -36,7 +43,7 @@ DAX (Data Analysis Expressions) – for KPIs and calculated measures
 Excel / CSV – as the data source
 
 
-###🌟 4. Features and Highlights
+**🌟 4. Features and Highlights**
 
 Gender-Based Insights: Shopping distribution and total revenue by gender
 
@@ -53,7 +60,7 @@ Interactivity: Navigation buttons for switching between dashboard pages
 Visual Appeal: Clean, professional design with color-coded visuals
 
 
-###📊 5. Dashboard Preview
+**📊 5. Dashboard Preview**
 
 Dashboard 1: Customer Demographics & Purchase Insights
 Dashboard 2: Product Category & Payment Analysis
@@ -63,7 +70,7 @@ Dashboard 2: Product Category & Payment Analysis
 <img width="1199" height="675" alt="Screenshot -Customer data analysis-2" src="https://github.com/user-attachments/assets/81423aa4-9c84-479b-8adc-2b070db8cc1b" />
 
 
-###💡 6. Key Insights
+**💡 6. Key Insights**
 
 Total Revenue: $251.51M
 
@@ -82,7 +89,7 @@ Payment Preference: Cash (44.86%) was the most used method, followed by Credit C
 Top Shopping Mall: Mall of Istanbul recorded the highest overall revenue.
 
 
-###⚠️ 7. Disclaimer
+**⚠️ 7. Disclaimer**
 
 This project is developed purely for educational and portfolio purposes to demonstrate analytical and visualization skills using SQL and Power BI.
 The dataset used is fictional/sample data and does not represent any real company or customer information.
