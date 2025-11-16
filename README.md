@@ -1,7 +1,7 @@
 # Customer Data Analysis – SQL & Power BI Project
 
-**📘 Table of Contents**
-|----------------------------|
+## 📘 Table of Contents
+
 
 <a href="#Project Overview">Project Overview</a>
 
@@ -20,13 +20,13 @@
 <a href="#Disclaimer">Disclaimer</a>
 
 
-**🎯 1.Project Overview**
+## 🎯 1.Project Overview
 
 The Customer Data Analysis project focuses on understanding customer purchasing behavior, demographics, and payment preferences through SQL data analysis and Power BI visualization.
 The project provides actionable insights that help businesses identify top-performing segments and optimize marketing and sales strategies.
 
 
-**🎯 2.Project Goals**
+## 🎯 2.Project Goals
 
 How is the shopping distribution according to gender?
 
@@ -49,13 +49,13 @@ Does the payment method have a relation with other columns?
 How is the distribution of the payment method?
 
 
-**🧠 3. Short Description / Process**
+## 🧠 3. Short Description / Process
 
 This project analyzes customer and transaction data to explore key metrics such as sales distribution by gender, age group, and payment method.
 The dataset was queried in MySQL to derive KPIs and trend insights, which were then visualized through an interactive Power BI dashboard with navigation between analysis pages.
 
 
-**🧰 4. Tech Stack**
+## 🧰 4. Tech Stack
 
 **SQL (MySQL)** – for data extraction, transformation, and aggregation
 
@@ -68,7 +68,7 @@ The dataset was queried in MySQL to derive KPIs and trend insights, which were t
 **Excel / CSV**– as the data source
 
 
-**🌟 5. Features and Highlights**
+## 🌟 5. Features and Highlights
 
 **Gender-Based Insights:** Shopping distribution and total revenue by gender
 
@@ -85,7 +85,7 @@ The dataset was queried in MySQL to derive KPIs and trend insights, which were t
 **Visual Appeal:** Clean, professional design with color-coded visuals
 
 
-**📊 6. Dashboard Preview**
+## 📊 6. Dashboard Preview
 
 **Dashboard 1:** Customer Demographics & Purchase Insights
 **Dashboard 2:** Product Category & Payment Analysis
@@ -95,7 +95,7 @@ The dataset was queried in MySQL to derive KPIs and trend insights, which were t
 <img width="1199" height="675" alt="Screenshot -Customer data analysis-2" src="https://github.com/user-attachments/assets/81423aa4-9c84-479b-8adc-2b070db8cc1b" />
 
 
-**💡 7. Key Insights**
+## 💡 7. Key Insights
 
 **Total Revenue:** $251.51M
 
@@ -114,7 +114,7 @@ The dataset was queried in MySQL to derive KPIs and trend insights, which were t
 **Top Shopping Mall:** Mall of Istanbul recorded the highest overall revenue.
 
 
-**⚠️ 8. Disclaimer**
+## ⚠️ 8. Disclaimer
 
 This project is developed purely for educational and portfolio purposes to demonstrate analytical and visualization skills using SQL and Power BI.
 The dataset used is fictional/sample data and does not represent any real company or customer information.
