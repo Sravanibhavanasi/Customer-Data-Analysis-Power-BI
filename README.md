@@ -88,9 +88,10 @@ The dataset was queried in MySQL to derive KPIs and trend insights, which were t
 ## 📊 6. Dashboard Preview
 
 **Dashboard 1:** Customer Demographics & Purchase Insights
-**Dashboard 2:** Product Category & Payment Analysis
 
 <img width="1199" height="669" alt="Screenshot -Customer data analysis-1" src="https://github.com/user-attachments/assets/727b8cc8-3505-4ad2-8f33-0a30c23c0aba" />
+
+**Dashboard 2:** Product Category & Payment Analysis
 
 <img width="1199" height="675" alt="Screenshot -Customer data analysis-2" src="https://github.com/user-attachments/assets/81423aa4-9c84-479b-8adc-2b070db8cc1b" />
 
